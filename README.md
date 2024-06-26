@@ -1,3 +1,3 @@
-Java Snake game source code
-Compile   SnakeGame.java and Freme.java
-Run    Freme.java
+Java Snake game source code \n
+Compile   SnakeGame.java and Freme.java \n
+Run    Freme.java \n
